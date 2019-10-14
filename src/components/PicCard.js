@@ -5,6 +5,7 @@ import styled from "styled-components";
 const Pulse = styled.div`
     background-color: green;
     color: blue;
+   
 `;
 
  const PicsCard = props => {
